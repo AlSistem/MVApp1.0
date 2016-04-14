@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MV App</string>
+    <string name="Hola">Bienvenido a Mas Vacations!</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Reservar">Reservar</string>
+    <string name="Not">Notificaciones</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Titulo">Reservar</string>
+</resources>
